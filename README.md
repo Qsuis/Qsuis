@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qsuis
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on anything i guess im new to this :)
 - 📫 How to reach me email i guess or here on github. helge.ca@hotmail.se
 
